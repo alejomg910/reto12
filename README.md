@@ -1,5 +1,7 @@
 # reto12
 
+Como dijo Hector Lavoe y Willie Colon alguna vez en una de sus [canciones](https://www.youtube.com/watch?v=uTXP8VB52-I): "Todo tiene su final". El reto a continuacion fue desarrollado en un notebook de python adjuntado a este repo.
+
 1. Desarrollar un algoritmo que imprima de manera ascendente los valores (todos del mismo tipo) de un diccionario.
 2. Desarrollar una funcion que reciba dos diccionarios como parametros y los mezcle, es decir, que se construya un nuevo diccionario con las llaves de los dos diccionarios; si hay una clave repetida en ambos diccionarios, se debe asignar el valor que tenga la clave en el primer diccionario.
 3. Dado el JSON:
